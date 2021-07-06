@@ -1,6 +1,6 @@
 # dendritic_synapse_density
 
-Extraction of dendritic synapses per unit length for each neuron:
+Extraction of dendritic synapses per unit length for each neuron of a given circuit:
 
 * __[/bin](/bin)__\
   Python scripts to extracts dendritic EXC and INH synapse densities (#synapses/um) for each neuron. The resulting cell table is written to file as pickled Pandas dataframe.
